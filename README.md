@@ -1,5 +1,6 @@
 # jquery-start
 
 **JQuery training projects**  
-My teaching JQuery projects
+
+My training JQuery projects
 
