@@ -2,5 +2,5 @@
 
 **JQuery training projects**  
 
-My training JQuery projects
+My first training JQuery projects
 
